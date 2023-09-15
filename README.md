@@ -1,4 +1,4 @@
-# Contact Manager Pro
+# Contact Manager Pro.
 Contact Manager Pro is a simple Windows Forms application designed to help users manage their contact information effectively. Whether you're a professional who needs to keep track of clients and colleagues or an individual looking to organize your friends and family contacts, Contact Manager Pro offers an intuitive interface for effortless contact management.
 
 # Features
