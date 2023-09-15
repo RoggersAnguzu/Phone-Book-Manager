@@ -10,7 +10,7 @@ View Contact Details: Access comprehensive details for each contact, including t
 
 User-Friendly Interface: The program features a simple and intuitive user interface that enables users to quickly navigate and interact with the application.
 
-Data Persistence: Contact information is stored on your local machine for easy retrieval and updates.
+Data Persistence: Contact information is stored on your local machine for easy retrieval and updates...
 
 # Getting Started
 Clone or download the Contact Manager Pro repository to your local machine.
